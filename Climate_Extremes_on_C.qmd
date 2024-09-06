@@ -1,0 +1,49 @@
+---
+title: "Literature"
+format: html
+editor: visual
+---
+
+## Literature Review
+
+### Climate extremes and the carbon cycle - 2024/09/06
+
+https://www.nature.com/articles/nature12350
+
+https://iopscience.iop.org/article/10.1088/1748-9326/9/3/035001/meta
+
+https://iopscience.iop.org/article/10.1088/1748-9326/9/9/094011
+
+### Detecting Subtle Land Cover Change and Addressing its Climate Impact in an Interdisciplinary Framework of Ecology and Economics - 2024/09/06
+Basic Information:
+Land-atmosphere interactions:
+- Energy
+- Water
+- GHG
+
+Research questions:
+1) Develop model to detect subtle land cove changes
+- Current models differ a lot in land cover change detection
+- Developed model: interaction between bands for remote sensing
+It can detect wildfires, port and urban development
+
+2) Climate impact of forest disturbance
+Forest VS. Forest disturbance region
+low albedo   high albedo
+high ET      low ET
+- Land Surface T changes after disturbances
+- Surface albedo (may recover or increase, consider about changes in ecosystems), increase after disturbances
+- Precipitation changes 
+Climatic zones with more precipitation shown a greater reduction in ET and requires longer recovery
+
+3) Choice of bioenergy crops to minimize the efficiency and decrease their impacts on climatic disturbances
+Biogeochemical impact:
+sugar beets saved most GHG emissions <-> soybean least
+Biophysical impacts:
+Social costs:
+Implications -> Government encourage the cultivation of bioenergy crops for biofuel production by providing susbsidies
+
+
+
+
+
