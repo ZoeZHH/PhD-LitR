@@ -15,49 +15,45 @@ https://iopscience.iop.org/article/10.1088/1748-9326/9/3/035001/meta
 https://iopscience.iop.org/article/10.1088/1748-9326/9/9/094011
 
 ### Detecting Subtle Land Cover Change and Addressing its Climate Impact in an Interdisciplinary Framework of Ecology and Economics - 2024/09/06
-Basic Information:
-Land-atmosphere interactions:
-- Energy
-- Water
-- GHG
 
-Research questions:
-1) Develop model to detect subtle land cove changes
-- Current models differ a lot in land cover change detection
-- Developed model: interaction between bands for remote sensing
-It can detect wildfires, port and urban development
+Basic Information: Land-atmosphere interactions: - Energy - Water - GHG
 
-2) Climate impact of forest disturbance
-Forest VS. Forest disturbance region
-low albedo   high albedo
-high ET      low ET
-- Land Surface T changes after disturbances
-- Surface albedo (may recover or increase, consider about changes in ecosystems), increase after disturbances
-- Precipitation changes 
-Climatic zones with more precipitation shown a greater reduction in ET and requires longer recovery
+Research questions: 1) Develop model to detect subtle land cove changes - Current models differ a lot in land cover change detection - Developed model: interaction between bands for remote sensing It can detect wildfires, port and urban development
 
-3) Choice of bioenergy crops to minimize the efficiency and decrease their impacts on climatic disturbances
-Biogeochemical impact:
-sugar beets saved most GHG emissions <-> soybean least
-Biophysical impacts:
-Social costs:
-Implications -> Government encourage the cultivation of bioenergy crops for biofuel production by providing susbsidies
+2)  Climate impact of forest disturbance Forest VS. Forest disturbance region low albedo high albedo high ET low ET
 
+-   Land Surface T changes after disturbances
+-   Surface albedo (may recover or increase, consider about changes in ecosystems), increase after disturbances
+-   Precipitation changes Climatic zones with more precipitation shown a greater reduction in ET and requires longer recovery
+
+3)  Choice of bioenergy crops to minimize the efficiency and decrease their impacts on climatic disturbances Biogeochemical impact: sugar beets saved most GHG emissions \<-\> soybean least Biophysical impacts: Social costs: Implications -\> Government encourage the cultivation of bioenergy crops for biofuel production by providing susbsidies
 
 ### Plant Diversity, climate change, and conservation: The view from California - 2024/09/10
 
 Micro climate could impact species distribution. Different species found on north and south slopes
 
-Inbound Species: Species that can move into certain area as outbound species move away
-Outbound Species: species that move to higher elevation due to hotter weather
+Inbound Species: Species that can move into certain area as outbound species move away Outbound Species: species that move to higher elevation due to hotter weather
 
+### Climate Extremes and the Carbon Cycle (2013/08/15) - 2024/09/17
 
+**Why study?** *Problems*: Earth system models shown combined effect of CO2, climate change and nitrogen deposition leads to increased vegetation productivity -\> enhanced carbon sinks in temperate and boreal regions. But extreme Events (heatwaves, droughts, storms) offset carbon sinks -\>releasing CO2 to the atmosphere *This study look into*: Investigate the diverse impacts of climate extremes on the carbon cycle of terrestrial ecosystems
 
+**Key Study Points**:
+1. Extreme Events affect the carbon cycle concurrently and initiated lagged responses
+2. Drought is the most widespread factor affecting the carbon balance in forests
 
+**Great Citations:** 1. Smith, M. D. An ecological perspective on extreme climatic events: a synthetic definition and framework to guide future research. J. Ecol. 99, 656–663 (2011). This paper introduced the ecosystem-impact-oriented perspective on climate extremes.
 
+An extreme climatic event defined as: an episode or occurrence in which a statistically rare or unusual climatic period alters ecosystem structure and/or functions well outside the bounds of what is considered typical or normal variability.
 
+2. European 2003 heatwaves, precipitation (soil moisture) deficit rather than temperature was the main factor reducing water and carbon fluxes in temperate and meditteranean forest ecosystems 
 
+Reichstein, M. et al. Reduction of ecosystem productivity and respiration during the European summer 2003 climate anomaly: a joint flux tower, remote sensing and modelling analysis. Glob. Change Biol. 13, 634–651 (2007).
+Granier, A. et al. Evidence for soil water control on carbon and water dynamics in European forests during the extremely dry year: 2003. Agric. For. Meteorol. 143, 123–145 (2007).
 
+3. Severe and recurrent droughts have been identified as a major contributing factor in the recently accelerated rates of tree decline and mortality of forests (17, 29-31)
 
+4. drought is also a relevant driver of the physiology and carbon cycling of the highly productive tropical forests
+Choat, B. et al. Global convergence in the vulnerability of forests to drought. Nature 491, 752–755 (2012).
 
-
+5. Amazonian forests were estimated to have lost 1.6 petagrams (1015 g) of carbon (Pg C) and 2.2 Pg C following the severe droughts of 2005 and 2010, respectively (refs 30 and 32).
