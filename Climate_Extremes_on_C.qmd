@@ -38,22 +38,45 @@ Inbound Species: Species that can move into certain area as outbound species mov
 
 **Why study?** *Problems*: Earth system models shown combined effect of CO2, climate change and nitrogen deposition leads to increased vegetation productivity -\> enhanced carbon sinks in temperate and boreal regions. But extreme Events (heatwaves, droughts, storms) offset carbon sinks -\>releasing CO2 to the atmosphere *This study look into*: Investigate the diverse impacts of climate extremes on the carbon cycle of terrestrial ecosystems
 
-**Key Study Points**:
-1. Extreme Events affect the carbon cycle concurrently and initiated lagged responses
-2. Drought is the most widespread factor affecting the carbon balance in forests
+**Key Study Points**: 1. Extreme Events affect the carbon cycle concurrently and initiated lagged responses 2. Drought is the most widespread factor affecting the carbon balance in forests 3. Storms are considered to be the most important natural disturbance affecting European forests； Similarly, (sub-)tropical forests are vulnerable to wind-storm mortality and tropical-cyclone-driven mortality 4. Grasslands are susceptible to drought, whereas in contrast to forests, other extremes (for example, storms) play a smaller, if not negligible, part 5. the fraction of absorbed photosynthetically active radiation (fAPAR) often serves as a spatiotemporal indicator for vegetation activity. 6. modern machine-learning methods allow us to translate fAPAR into robust estimators for gross primary productivity (GPP).
+
+**Knowledge Gap**: 1. Overall, the most pressing question is to what extent the coupling between increasing climate extremes12 and induced CO2 losses to the atmosphere might offset or even outweigh ecosystem carbon uptake arising from gradually increasing CO2 concentration, prolonged extratropical growing season length and nitrogen deposition. 2. Given the importance of drought, we strongly advocate stronger integration of carbon-related and hydrological observations and modelling efforts. 3. As in climate models, this will require the adoption of higher spatial process resolution in carbon-cycle models.
 
 **Great Citations:** 1. Smith, M. D. An ecological perspective on extreme climatic events: a synthetic definition and framework to guide future research. J. Ecol. 99, 656–663 (2011). This paper introduced the ecosystem-impact-oriented perspective on climate extremes.
 
 An extreme climatic event defined as: an episode or occurrence in which a statistically rare or unusual climatic period alters ecosystem structure and/or functions well outside the bounds of what is considered typical or normal variability.
 
-2. European 2003 heatwaves, precipitation (soil moisture) deficit rather than temperature was the main factor reducing water and carbon fluxes in temperate and meditteranean forest ecosystems 
+2.  European 2003 heatwaves, precipitation (soil moisture) deficit rather than temperature was the main factor reducing water and carbon fluxes in temperate and meditteranean forest ecosystems
 
-Reichstein, M. et al. Reduction of ecosystem productivity and respiration during the European summer 2003 climate anomaly: a joint flux tower, remote sensing and modelling analysis. Glob. Change Biol. 13, 634–651 (2007).
-Granier, A. et al. Evidence for soil water control on carbon and water dynamics in European forests during the extremely dry year: 2003. Agric. For. Meteorol. 143, 123–145 (2007).
+Reichstein, M. et al. Reduction of ecosystem productivity and respiration during the European summer 2003 climate anomaly: a joint flux tower, remote sensing and modelling analysis. Glob. Change Biol. 13, 634–651 (2007). Granier, A. et al. Evidence for soil water control on carbon and water dynamics in European forests during the extremely dry year: 2003. Agric. For. Meteorol. 143, 123–145 (2007).
 
-3. Severe and recurrent droughts have been identified as a major contributing factor in the recently accelerated rates of tree decline and mortality of forests (17, 29-31)
+3.  Severe and recurrent droughts have been identified as a major contributing factor in the recently accelerated rates of tree decline and mortality of forests (17, 29-31)
 
-4. drought is also a relevant driver of the physiology and carbon cycling of the highly productive tropical forests
-Choat, B. et al. Global convergence in the vulnerability of forests to drought. Nature 491, 752–755 (2012).
+4.  drought is also a relevant driver of the physiology and carbon cycling of the highly productive tropical forests Choat, B. et al. Global convergence in the vulnerability of forests to drought. Nature 491, 752–755 (2012).
 
-5. Amazonian forests were estimated to have lost 1.6 petagrams (1015 g) of carbon (Pg C) and 2.2 Pg C following the severe droughts of 2005 and 2010, respectively (refs 30 and 32).
+5.  Amazonian forests were estimated to have lost 1.6 petagrams (1015 g) of carbon (Pg C) and 2.2 Pg C following the severe droughts of 2005 and 2010, respectively (refs 30 and 32).
+
+6.  Nevertheless, climate anomalies associated with El Niño episodes have been shown to cause extreme fire events in tropical forests, affecting Amazon rainforest40 and tropical southeast Asia, the latter contributing 66% of the atmospheric CO2 growth rate anomaly during the 1997–1998 event41.
+
+### A few extreme events dominate global interannual variability in gross primary production - 2024/09/20
+
+**Definitions:**
+
+1.  Spatialtemporal contiguous extreme events: extreme events happened in spatial range (not limited to a spsecific place but create larger impacts to closer area, events are contiguous, may happen in a larger area) but also within a temporal range (may happen in a longer time).
+
+spatiotemporal contiguous extreme events
+
+### Monitoring biosphere vegetation 1998–2009 - 2024/09/21
+
+**Definitions:**
+
+1.  FAPAR represents the fraction of available sunlight in the photosynthetically active wavelengths (400–700 nm) that is absorbed by vegetation.
+
+**Generating FAPAR:**
+
+The study utilized data from the SeaWiFS and MERIS satellites to monitor global vegetation health through the Fraction of Absorbed Photosynthetically Active Radiation (FAPAR) from 1998 to 2009. These satellites provided vital spectral data, allowing for the assessment of vegetation dynamics over large spatial and temporal scales. FAPAR values were computed using physically-based algorithms and harmonized to address sensor differences, ensuring consistent and accurate global monitoring. The data was rigorously calibrated using reference sites and composited monthly to reduce noise from cloud cover and atmospheric conditions. This robust dataset helped to track changes in vegetation health globally, offering insights into how climate anomalies affect terrestrial ecosystems.
+
+**Key Findings:**
+
+1.  FAPAR extremes were found to follow power-law size distributions, with larger anomalies often driven by water scarcity.
+2.  The results emphasize the importance of water availability as a key driver of vegetation stress, which in turn affects photosynthetic activity and ecosystem function.
