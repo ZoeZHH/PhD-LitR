@@ -58,14 +58,6 @@ Reichstein, M. et al. Reduction of ecosystem productivity and respiration during
 
 6.  Nevertheless, climate anomalies associated with El Niño episodes have been shown to cause extreme fire events in tropical forests, affecting Amazon rainforest40 and tropical southeast Asia, the latter contributing 66% of the atmospheric CO2 growth rate anomaly during the 1997–1998 event41.
 
-### A few extreme events dominate global interannual variability in gross primary production - 2024/09/20
-
-**Definitions:**
-
-1.  Spatialtemporal contiguous extreme events: extreme events happened in spatial range (not limited to a spsecific place but create larger impacts to closer area, events are contiguous, may happen in a larger area) but also within a temporal range (may happen in a longer time).
-
-spatiotemporal contiguous extreme events
-
 ### Monitoring biosphere vegetation 1998–2009 - 2024/09/21
 
 **Definitions:**
@@ -80,3 +72,11 @@ The study utilized data from the SeaWiFS and MERIS satellites to monitor global 
 
 1.  FAPAR extremes were found to follow power-law size distributions, with larger anomalies often driven by water scarcity.
 2.  The results emphasize the importance of water availability as a key driver of vegetation stress, which in turn affects photosynthetic activity and ecosystem function.
+
+### A few extreme events dominate global interannual variability in gross primary production - 2024/09/20
+
+**Definitions:**
+
+1.  Spatialtemporal contiguous extreme events: extreme events happened in spatial range (not limited to a spsecific place but create larger impacts to closer area, events are contiguous, may happen in a larger area) but also within a temporal range (may happen in a longer time).
+
+spatiotemporal contiguous extreme events
